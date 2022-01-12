@@ -1,7 +1,7 @@
 ﻿using System;
 class program
 {
-	public void main()
+	public static void Main()
 	{
 		string text = "Inigo Montoya";
 		Guid guid = Guid.NewGuid();

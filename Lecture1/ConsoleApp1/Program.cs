@@ -7,7 +7,7 @@ class program
 		Guid guid = Guid.NewGuid();
 
 		Console.WriteLine("Hello, World!");
-		Console.WriteLine("Inigo Montoya" + text);
+		Console.WriteLine("Inigo Montoya: " + text);
 	}
 
 }
